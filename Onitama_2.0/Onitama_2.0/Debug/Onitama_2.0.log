@@ -1,0 +1,7 @@
+﻿  Onitama_2.0.cpp
+c:\users\work\desktop\c++\onitama_2.0\onitama_2.0\onitama_2.0.cpp(101): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\work\desktop\c++\onitama_2.0\onitama_2.0\onitama_2.0.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\work\desktop\c++\onitama_2.0\onitama_2.0\onitama_2.0.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\work\desktop\c++\onitama_2.0\onitama_2.0\onitama_2.0.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\work\desktop\c++\onitama_2.0\onitama_2.0\onitama_2.0.cpp(262): warning C4715: 'snapToSquare': not all control paths return a value
+  Onitama_2.0.vcxproj -> C:\Users\Work\Desktop\C++\Onitama_2.0\Debug\Onitama_2.0.exe
